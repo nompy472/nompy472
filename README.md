@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nompy472
-- 👀 I’m interested in ...learning as much as possible
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me ... email-nompychiloane@gmail.com
+- 👋 Hi, I’m Nompy
+- 👀 I’m interested in web development, keen to learning as much as possible
+- 🌱 I’m currently holding a Responsive Web Design Certificate
+- 💞️ I’m looking for opportunities to expand my capabilities
+- 📫 How to reach me? ... email-nompychiloane@gmail.com or WhatsApp-0792591164
 
 <!---
 nompy472/nompy472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
